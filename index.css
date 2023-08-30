@@ -1,0 +1,22 @@
+.post{
+    border: solid red 2px;
+    width: 450px;
+    height: 550px;
+}
+.post-header{
+    border: solid green 1px;
+    height: 250px;
+}
+.post-img{
+    border: solid black 1px;
+    height: 550px;
+    width: 450px;
+}
+.post-body{
+    border: solid yellow 1px;
+    height: 250px;
+}
+.post-icons{
+    border: solid hotpink 1px;
+    height: 180px;
+}
